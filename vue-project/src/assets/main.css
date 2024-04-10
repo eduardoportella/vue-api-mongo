@@ -1,0 +1,12 @@
+@import './base.css';
+
+* {
+  color: var(--color-white);
+}
+
+#app {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-weight: normal;
+}
