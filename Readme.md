@@ -5,6 +5,7 @@ Obrigado por visitar minha primeira API :)
 ### Para executar o projeto é necessário executar os comandos:
 Na pasta api-mongo:
 ````
+npm install
 npx prisma client
 npm run dev
 ````
@@ -12,6 +13,7 @@ npm run dev
 
 Na pasta vue-project:
 ````
+npm install
 npm run dev
 ````
 
